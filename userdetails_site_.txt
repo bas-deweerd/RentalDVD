@@ -1,0 +1,12 @@
+http://schoolscreen.site90.net/
+
+Username: h.lecluse@student.fontys.nl
+Password: Project1
+
+FTP Username :a1711237
+FTP Password :Group2
+
+$mysql_host = "mysql3.000webhost.com";
+$mysql_database = "a1711237_project";
+$mysql_user = "a1711237_project";
+$mysql_password = "Group2";
